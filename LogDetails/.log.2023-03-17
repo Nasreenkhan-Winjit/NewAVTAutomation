@@ -1,0 +1,35 @@
+2023-03-17/18:34:37.280  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-03-17/18:34:37.294  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-03-17/18:34:38.937  INFO: wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Chrome 111 is installed in your machine)
+2023-03-17/18:34:38.969  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-17/18:34:46.622  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-03-17/18:34:46.645  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2023-03-17/18:35:17.197  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-17/18:35:17.216  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-03-17/18:35:17.401  INFO: listener.WebEventListener - Default Value :
+2023-03-17/18:35:17.526  INFO: listener.WebEventListener - Entered Value :
+2023-03-17/18:35:17.592  INFO: listener.WebEventListener - Default Value :
+2023-03-17/18:35:17.701  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-03-17/18:35:17.705  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-17/18:35:17.720  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-03-17/18:35:17.804  INFO: listener.WebEventListener - Default Value :
+2023-03-17/18:35:17.894  INFO: listener.WebEventListener - Entered Value :
+2023-03-17/18:35:17.938  INFO: listener.WebEventListener - Default Value :
+2023-03-17/18:35:18.035  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-03-17/18:35:18.037  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-17/18:35:18.047  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-03-17/18:35:18.066  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-03-17/18:35:18.110  INFO: listener.WebEventListener - after click on
+2023-03-17/18:35:38.295 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-17/18:35:39.303 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-17/18:36:09.502  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-03-17/18:36:09.802  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-03-17/18:36:09.886  INFO: listener.WebEventListener - after click on
+2023-03-17/18:36:09.896 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-17/18:36:10.728 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-17/18:36:15.752  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-03-17/18:36:15.798  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-03-17/18:36:15.887  INFO: listener.WebEventListener - after click on
+2023-03-17/18:36:15.888  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-03-17/18:36:21.125  INFO: listener.WebEventListener - After Switch to Window
+2023-03-17/18:36:38.241 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running

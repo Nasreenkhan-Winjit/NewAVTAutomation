@@ -1,0 +1,4 @@
+# Created at 2023-04-01T13:39:28.207
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Nasreen\HardDiskCopied\E\InelliJ\New AVT-Automation\New-AVT\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -22,6 +22,9 @@ public class ChromeBrowser extends DriverManagerWeb {
         chromeOptions.setPageLoadStrategy(PageLoadStrategy.NONE);
         //Browser code
 //        chromeOptions.addArguments("--start-maximized");
+//        //New
+//
+//        chromeOptions.addArguments("--remote-allow-origins=*");
 //        webDriver = new ChromeDriver(chromeOptions);
 //        capabilities = ((RemoteWebDriver) webDriver).getCapabilities();
 

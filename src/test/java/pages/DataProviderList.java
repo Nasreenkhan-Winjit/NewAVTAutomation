@@ -21,68 +21,11 @@ public class DataProviderList {
         return reader.getDataFromSheet("Valid_Login");
     }
 
-    @DataProvider(name = "consignment")
+    @DataProvider(name = "NewAvtDataFile")
     public Object[][] consignment() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ConsignmentID");
+        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\NewAvtDataFile.xlsx");
+        return reader.getDataFromSheet(" NewAvtDataFile");
     }
-    @DataProvider(name = "consignmentInbound")
-    public Object[][] consignmentInbound() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" consignmentInbound");
-    }
-
-    @DataProvider(name = "ConsignmentInbound2")
-    public Object[][] consignmentInbound2() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ConsignmentInbound2");
-    }
-
-    @DataProvider(name = "ConsignmentProd")
-    public Object[][] ConsignmentProd() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ConsignmentProd");
-    }
-
-    @DataProvider(name = "ConsignmentInbound1Prod")
-    public Object[][] ConsignmentInbound1Prod() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ConsignmentInbound1Prod");
-    }
-    @DataProvider(name = "ConsignmentInbound2Prod")
-    public Object[][] ConsignmentInbound2Prod() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ConsignmentInbound2Prod");
-    }
-    @DataProvider(name = "EditConsignmentUAT")
-    public Object[][] EditConsignmentUAT() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" EditConsignmentUAT");
-    }
-
-    @DataProvider(name = "ExternalOutboundConsignment")
-    public Object[][] ExternalOutboundConsignment() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ExternalOutboundConsignment");
-    }
-    @DataProvider(name = "ExternalInboundConsignment")
-    public Object[][] ExternalInboundConsignment() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" ExternalInboundConsignment");
-    }
-
-@DataProvider(name = "AutoGenOutboundConsignmentID")
-    public Object[][] AutoGenOutboundConsignmentID() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" AutoGenOutboundConsignmentID");
-    }
-
-@DataProvider(name = "AutoGenInboundConsignmentID")
-    public Object[][] AutoGenInboundConsignmentID() throws FilloException {
-        FilloExcelRead reader = new FilloExcelRead(filePath + "\\excel\\Login\\ConsignmentDetails.xlsx");
-        return reader.getDataFromSheet(" AutoGenInboundConsignmentID");
-    }
-
 
 
 

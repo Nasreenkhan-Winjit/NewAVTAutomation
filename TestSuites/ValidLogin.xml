@@ -7,7 +7,7 @@
     <test name="Check login and logout successfully">
         <classes>
             <class name="pages.LoginPageTest"/>
-<!--            <class name="pages.TestPageConsinment"/>-->
+<!--            <class name="pages.TestPageNewAVT"/>-->
         </classes>
     </test>
 </suite>

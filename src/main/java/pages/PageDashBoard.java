@@ -34,8 +34,8 @@ public class PageDashBoard extends BasePage {
 
     @CacheLookup
     //@FindBy(how = How.XPATH,using = "//ul[contains(@class,'v-expansion-panel')]/li[5]/../..//label[normalize-space(text())='Consign']")
-    @FindBy(how = How.XPATH, using = "//ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'Consign')]")
-    private WebElement elementConsignAccordion;
+    @FindBy(how = How.XPATH, using = "//ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]")
+    private WebElement elementNewAVTAccordion;
 
     @FindBy(how = How.XPATH, using = "//div[@class='v-input noTranform v-text-field v-text-field--single-line v-text-field--solo v-text-field--enclosed v-text-field--placeholder v-select v-autocomplete theme--light']//div[@class='v-input__slot']")
     private WebElement elementConsignSearch;
@@ -206,8 +206,8 @@ public class PageDashBoard extends BasePage {
      @FindBy(how = How.XPATH, using = "//div[@class='v-menu__content theme--light v-menu__content--fixed menuable__content__active']//div[@role='listitem'][2]")
      private  WebElement elementSelectCompanyAssignedSingleBilledto;
 
-
-
+    @FindBy(how = How.CSS,using = "#headlessui-combobox-option-36 > div > div:nth-child(2) > div:nth-child(2)")
+    private WebElement clickOnListOfAddress;
 
     //    @FindBy(how = How.XPATH, using = "//*[normalize-space(text())='SEARCH/REPORTS']")
     @FindBy(how = How.CSS, using = "span#titleSearchReports")
@@ -437,7 +437,7 @@ public class PageDashBoard extends BasePage {
     }
 
 
-    public void clickOnConsignViaAccordion() throws InterruptedException {
+    public void clickOnNewAVTViaAccordion() throws InterruptedException {
 //        System.out.println("Applauncher before"+ elementApplauncher.isDisplayed());
 //        webDriverWait.until(ExpectedConditions.visibilityOf(elementApplauncher));
 ////        elementApplauncher.isDisplayed();
@@ -451,8 +451,8 @@ public class PageDashBoard extends BasePage {
         elementAvailableAccordion.click();
 //        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", elementConsignAccordion);
 
-        scrollToElement(elementConsignAccordion);
-        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", elementConsignAccordion);
+        scrollToElement(elementNewAVTAccordion);
+        ((JavascriptExecutor) driver).executeScript("arguments[0].click();", elementNewAVTAccordion);
 
     }
 
@@ -687,6 +687,12 @@ public class PageDashBoard extends BasePage {
 
         webDriverWait.until(ExpectedConditions.elementToBeClickable(elementClickOnBtnConsignmentIDRMSEdit));
         elementClickOnBtnConsignmentIDRMSEdit.click();
+
+    }
+    public void clickOnAddressList() throws InterruptedException {
+
+        webDriverWait.until(ExpectedConditions.elementToBeClickable(clickOnListOfAddress));
+        clickOnListOfAddress.click();
 
     }
 

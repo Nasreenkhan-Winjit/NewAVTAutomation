@@ -1,0 +1,245 @@
+2023-03-31/12:56:41.846  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-03-31/12:56:41.861  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-03-31/12:56:42.279  INFO: wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Chrome 111 is installed in your machine)
+2023-03-31/12:56:42.294  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-31/12:56:48.822  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-03-31/12:56:48.946  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2023-03-31/12:57:18.149  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/12:57:18.168  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-03-31/12:57:18.278  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:57:18.382  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/12:57:18.459  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:57:18.572  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-03-31/12:57:18.574  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/12:57:18.585  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-03-31/12:57:18.657  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:57:18.746  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/12:57:18.794  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:57:18.889  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-03-31/12:57:18.890  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/12:57:18.900  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-03-31/12:57:18.919  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-03-31/12:57:18.963  INFO: listener.WebEventListener - after click on
+2023-03-31/12:57:39.122 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/12:57:39.960 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/12:58:10.135  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-03-31/12:58:10.315  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-03-31/12:58:10.409  INFO: listener.WebEventListener - after click on
+2023-03-31/12:58:10.426 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/12:58:11.188 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/12:58:16.210  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-03-31/12:58:16.264  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-03-31/12:58:16.349  INFO: listener.WebEventListener - after click on
+2023-03-31/12:58:16.349  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-03-31/12:58:21.607  INFO: listener.WebEventListener - After Switch to Window
+2023-03-31/12:58:36.613  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-03-31/12:58:36.669  INFO: listener.WebEventListener - after click on
+2023-03-31/12:58:46.766  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:58:46.861  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-03-31/12:58:51.925  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:58:52.004  INFO: listener.WebEventListener - Entered Value :Khan
+2023-03-31/12:58:52.326  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:58:52.474  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/12:58:52.542  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/12:58:52.620  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/12:58:52.646  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/12:58:52.846  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/12:58:54.929  INFO: listener.WebEventListener - Default Value :
+2023-03-31/12:58:55.024  INFO: listener.WebEventListener - Entered Value :Nasreen@test.com
+2023-03-31/12:59:07.037  INFO: listener.WebEventListener - Before Finding element: By.id: [billed-to="ALL"]
+2023-03-31/12:59:07.105 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:01:10.475  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-03-31/13:01:10.497  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-03-31/13:01:10.927  INFO: wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Chrome 111 is installed in your machine)
+2023-03-31/13:01:10.960  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-31/13:01:15.310  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-03-31/13:01:15.332  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2023-03-31/13:01:44.720  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:01:44.736  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-03-31/13:01:44.835  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:01:44.914  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:01:44.991  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:01:45.093  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-03-31/13:01:45.097  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:01:45.109  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-03-31/13:01:45.177  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:01:45.277  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:01:45.324  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:01:45.398  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-03-31/13:01:45.399  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:01:45.408  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-03-31/13:01:45.427  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-03-31/13:01:45.463  INFO: listener.WebEventListener - after click on
+2023-03-31/13:02:05.675 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:02:06.441 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:02:36.637  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-03-31/13:02:36.822  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-03-31/13:02:36.932  INFO: listener.WebEventListener - after click on
+2023-03-31/13:02:36.938 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:02:37.676 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:02:42.703  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-03-31/13:02:42.743  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-03-31/13:02:42.836  INFO: listener.WebEventListener - after click on
+2023-03-31/13:02:42.837  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-03-31/13:02:47.956  INFO: listener.WebEventListener - After Switch to Window
+2023-03-31/13:03:02.968  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-03-31/13:03:03.036  INFO: listener.WebEventListener - after click on
+2023-03-31/13:03:13.137  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:03:13.217  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-03-31/13:03:18.278  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:03:18.408  INFO: listener.WebEventListener - Entered Value :Khan
+2023-03-31/13:03:18.599  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:03:18.708  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:03:18.762  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:03:18.832  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:03:18.862  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:03:18.942  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:03:21.012  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:03:21.129  INFO: listener.WebEventListener - Entered Value :Nasreen@test.com
+2023-03-31/13:03:33.147  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: [billed-to=\"ALL\"]
+2023-03-31/13:03:33.237 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:04:07.072  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-03-31/13:04:07.096  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-03-31/13:04:07.510  INFO: wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Chrome 111 is installed in your machine)
+2023-03-31/13:04:07.526  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-31/13:04:11.749  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-03-31/13:04:11.867  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2023-03-31/13:04:40.304  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:04:40.323  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-03-31/13:04:40.405  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:04:40.481  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:04:40.521  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:04:40.638  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-03-31/13:04:40.641  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:04:40.655  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-03-31/13:04:40.754  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:04:40.859  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:04:40.920  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:04:40.997  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-03-31/13:04:40.997  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:04:41.007  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-03-31/13:04:41.022  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-03-31/13:04:41.058  INFO: listener.WebEventListener - after click on
+2023-03-31/13:05:32.225  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-03-31/13:05:32.412  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-03-31/13:05:32.503  INFO: listener.WebEventListener - after click on
+2023-03-31/13:05:38.330  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-03-31/13:05:38.362  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-03-31/13:05:38.448  INFO: listener.WebEventListener - after click on
+2023-03-31/13:05:38.448  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-03-31/13:05:43.677  INFO: listener.WebEventListener - After Switch to Window
+2023-03-31/13:05:58.688  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-03-31/13:05:58.754  INFO: listener.WebEventListener - after click on
+2023-03-31/13:06:08.859  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:06:08.939  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-03-31/13:06:14.001  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:06:14.079  INFO: listener.WebEventListener - Entered Value :Khan
+2023-03-31/13:06:14.395  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:06:14.535  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:06:14.609  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:06:14.682  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:06:14.713  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:06:14.852  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:06:16.928  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:06:17.049  INFO: listener.WebEventListener - Entered Value :Nasreen@test.com
+2023-03-31/13:06:29.081  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: [billed-to=\"ALL\"]
+2023-03-31/13:25:26.527  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-03-31/13:25:26.527  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-03-31/13:25:26.943  INFO: wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Chrome 111 is installed in your machine)
+2023-03-31/13:25:26.994  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-31/13:25:31.649  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-03-31/13:25:32.094  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2023-03-31/13:26:01.509  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:26:01.532  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-03-31/13:26:01.644  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:26:01.743  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:26:01.811  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:26:01.903  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-03-31/13:26:01.907  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:26:01.919  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-03-31/13:26:01.995  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:26:02.084  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:26:02.143  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:26:02.228  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-03-31/13:26:02.229  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:26:02.240  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-03-31/13:26:02.258  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-03-31/13:26:02.295  INFO: listener.WebEventListener - after click on
+2023-03-31/13:26:22.521 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:26:23.358 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:26:53.539  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-03-31/13:26:53.719  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-03-31/13:26:53.813  INFO: listener.WebEventListener - after click on
+2023-03-31/13:26:53.823 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:26:55.120 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:27:00.137  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-03-31/13:27:00.181  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-03-31/13:27:00.269  INFO: listener.WebEventListener - after click on
+2023-03-31/13:27:00.270  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-03-31/13:27:05.603  INFO: listener.WebEventListener - After Switch to Window
+2023-03-31/13:27:20.613  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-03-31/13:27:20.670  INFO: listener.WebEventListener - after click on
+2023-03-31/13:27:30.797  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:27:30.872  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-03-31/13:27:35.935  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:27:36.004  INFO: listener.WebEventListener - Entered Value :Khan
+2023-03-31/13:27:36.329  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:27:36.495  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:27:36.569  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:27:36.649  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:27:36.701  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:27:36.885  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:27:38.961  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:27:39.059  INFO: listener.WebEventListener - Entered Value :Nasreen@test.com
+2023-03-31/13:27:51.078  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: #headlessui-combobox-option-27
+2023-03-31/13:27:51.118 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:41:44.951  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-03-31/13:41:44.973  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-03-31/13:41:45.465  INFO: wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (since Chrome 111 is installed in your machine)
+2023-03-31/13:41:45.588  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\111.0.5563.64\chromedriver.exe
+2023-03-31/13:41:51.369  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-03-31/13:41:51.549  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2023-03-31/13:42:20.959  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:42:20.980  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-03-31/13:42:21.076  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:42:21.182  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:42:21.256  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:42:21.346  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-03-31/13:42:21.349  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:42:21.361  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-03-31/13:42:21.433  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:42:21.517  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:42:21.570  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:42:21.656  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-03-31/13:42:21.656  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-03-31/13:42:21.662  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-03-31/13:42:21.680  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-03-31/13:42:21.717  INFO: listener.WebEventListener - after click on
+2023-03-31/13:42:41.898 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:42:42.697 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:43:12.808  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-03-31/13:43:12.990  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-03-31/13:43:13.079  INFO: listener.WebEventListener - after click on
+2023-03-31/13:43:13.081 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:43:13.873 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-03-31/13:43:18.887  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-03-31/13:43:18.932  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-03-31/13:43:19.030  INFO: listener.WebEventListener - after click on
+2023-03-31/13:43:19.031  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-03-31/13:43:24.220  INFO: listener.WebEventListener - After Switch to Window
+2023-03-31/13:43:39.229  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-03-31/13:43:39.287  INFO: listener.WebEventListener - after click on
+2023-03-31/13:43:49.380  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:43:49.454  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-03-31/13:43:54.517  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:43:54.578  INFO: listener.WebEventListener - Entered Value :Khan
+2023-03-31/13:43:54.889  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:43:54.998  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:43:55.044  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:43:55.107  INFO: listener.WebEventListener - Entered Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:43:55.158  INFO: listener.WebEventListener - Default Value :99 Gold Street, Toekomsrus, Randfontein, South Africa
+2023-03-31/13:43:55.377  INFO: listener.WebEventListener - Entered Value :
+2023-03-31/13:43:57.456  INFO: listener.WebEventListener - Default Value :
+2023-03-31/13:43:57.558  INFO: listener.WebEventListener - Entered Value :Nasreen@test.com
+2023-03-31/13:44:09.589  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: #headlessui-combobox-option-27
+2023-03-31/13:44:09.636 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running

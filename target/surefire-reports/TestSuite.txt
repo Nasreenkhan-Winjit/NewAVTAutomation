@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 231.034 s <<< FAILURE! - in TestSuite
+pages.TestPageNewAVT.createRecordWithIndividualWork  Time elapsed: 81.328 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"form#addressForm ul>li:nth-child(3)"}
+  (Session info: headless chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c476da2f3a6a5f3711dd5c4a00742a4, findElementFromShadowRoot {shadowId=e1af8b0a-aa7e-49d4-8bbe-6cb09af0004d, using=css selector, value=form#addressForm ul>li:nth-child(3)}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\Nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58495}, networkConnectionEnabled: false, pageLoadStrategy: none, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58495/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c476da2f3a6a5f3711dd5c4a00742a4
+	at pages.TestPageNewAVT.createRecordWithIndividualWork(TestPageNewAVT.java:67)
+
+pages.TestPageNewAVT.createRecordWithIndividualHome  Time elapsed: 35.813 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"form#addressForm input"}
+  (Session info: headless chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c476da2f3a6a5f3711dd5c4a00742a4, findElementFromShadowRoot {shadowId=e1af8b0a-aa7e-49d4-8bbe-6cb09af0004d, using=css selector, value=form#addressForm input}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\Nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58495}, networkConnectionEnabled: false, pageLoadStrategy: none, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58495/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c476da2f3a6a5f3711dd5c4a00742a4
+	at pages.TestPageNewAVT.createRecordWithIndividualHome(TestPageNewAVT.java:114)
+
+pages.TestPageNewAVT.createRecordWithIndividualOther  Time elapsed: 20.722 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"form#addressForm input"}
+  (Session info: headless chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0c476da2f3a6a5f3711dd5c4a00742a4, findElementFromShadowRoot {shadowId=e1af8b0a-aa7e-49d4-8bbe-6cb09af0004d, using=css selector, value=form#addressForm input}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.28 (e01c41304994..., userDataDir: C:\Users\Nasreenk\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58495}, networkConnectionEnabled: false, pageLoadStrategy: none, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58495/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c476da2f3a6a5f3711dd5c4a00742a4
+	at pages.TestPageNewAVT.createRecordWithIndividualOther(TestPageNewAVT.java:156)
+

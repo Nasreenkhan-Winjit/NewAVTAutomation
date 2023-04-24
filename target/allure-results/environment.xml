@@ -1,0 +1,22 @@
+<qa:environment xmlns:qa="urn:model.commons.qatools.yandex.ru">
+  <parameter>
+    <key>Environment</key>
+    <value>opt</value>
+  </parameter>
+  <parameter>
+    <key>Browser\u0020Version</key>
+    <value>112.0.5615.138</value>
+  </parameter>
+  <parameter>
+    <key>Browser\u0020Name</key>
+    <value>chrome</value>
+  </parameter>
+  <parameter>
+    <key>Driver\u0020Version</key>
+    <value>112.0.5615.28 (e01c41304994a51cedfb5f0fac134687ba993bfb-refs/branch-heads/5615@{#494})</value>
+  </parameter>
+  <parameter>
+    <key>Platform</key>
+    <value>Windows 10 64 bit</value>
+  </parameter>
+</qa:environment>

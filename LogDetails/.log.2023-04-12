@@ -1,0 +1,66 @@
+2023-04-12/14:19:31.475  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-04-12/14:19:31.485  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-04-12/14:19:32.837  INFO: wdm.WebDriverManager - Using chromedriver 112.0.5615.28 (since Chrome 112 is installed in your machine)
+2023-04-12/14:19:32.878  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\112.0.5615.28\chromedriver.exe
+2023-04-12/14:19:38.753  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-04-12/14:19:43.295  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2023-04-12/14:21:02.558  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-04-12/14:21:02.576  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-04-12/14:21:02.649  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:21:02.705  INFO: listener.WebEventListener - Entered Value :
+2023-04-12/14:21:02.733  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:21:02.806  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-04-12/14:21:02.808  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-04-12/14:21:02.813  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-04-12/14:21:02.857  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:21:02.905  INFO: listener.WebEventListener - Entered Value :
+2023-04-12/14:21:02.937  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:21:03.167  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-04-12/14:21:03.167  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-04-12/14:21:03.174  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-04-12/14:21:03.191  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-04-12/14:21:03.221  INFO: listener.WebEventListener - after click on
+2023-04-12/14:21:54.409  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-04-12/14:21:54.588  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-04-12/14:21:54.676  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:00.386  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-04-12/14:22:00.416  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-04-12/14:22:00.501  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:00.501  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-04-12/14:22:05.799  INFO: listener.WebEventListener - After Switch to Window
+2023-04-12/14:22:20.812  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-12/14:22:20.866  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:30.931  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-12/14:22:30.973  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:30.982  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-12/14:22:31.015  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:31.020  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-12/14:22:31.051  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:31.055  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-12/14:22:31.142  INFO: listener.WebEventListener - after click on
+2023-04-12/14:22:36.194  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:22:36.258  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-04-12/14:22:41.320  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:22:41.378  INFO: listener.WebEventListener - Entered Value :Khan
+2023-04-12/14:22:41.681  INFO: listener.WebEventListener - Default Value :
+2023-04-12/14:22:41.764  INFO: listener.WebEventListener - Entered Value :test@test.com
+2023-04-12/14:22:46.775  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-12/14:23:26.976  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-12/14:23:37.103  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-12/14:23:47.237  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-12/14:23:54.830  WARN: handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:345)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:376)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:832)

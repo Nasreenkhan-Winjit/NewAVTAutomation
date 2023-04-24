@@ -1,0 +1,72 @@
+2023-04-07/12:45:28.426  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2023-04-07/12:45:28.434  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2023-04-07/12:45:29.669  INFO: wdm.WebDriverManager - Using chromedriver 112.0.5615.28 (since Chrome 112 is installed in your machine)
+2023-04-07/12:45:29.693  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Nasreenk\.m2\repository\webdriver\chromedriver\win32\112.0.5615.28\chromedriver.exe
+2023-04-07/12:45:34.612  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2023-04-07/12:45:34.643  INFO: listener.WebEventListener - After Navigated to URL: data:,
+2023-04-07/12:46:03.790  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-04-07/12:46:03.813  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2023-04-07/12:46:03.918  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:46:04.027  INFO: listener.WebEventListener - Entered Value :
+2023-04-07/12:46:04.082  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:46:04.170  INFO: listener.WebEventListener - Entered Value :Nasreen.khan@ram.co.za
+2023-04-07/12:46:04.173  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-04-07/12:46:04.182  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2023-04-07/12:46:04.240  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:46:04.347  INFO: listener.WebEventListener - Entered Value :
+2023-04-07/12:46:04.405  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:46:04.512  INFO: listener.WebEventListener - Entered Value :Nasreen@1230
+2023-04-07/12:46:04.512  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2023-04-07/12:46:04.522  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2023-04-07/12:46:04.545  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2023-04-07/12:46:04.583  INFO: listener.WebEventListener - after click on
+2023-04-07/12:46:24.766 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-04-07/12:46:25.516 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-04-07/12:46:55.678  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2023-04-07/12:46:55.865  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2023-04-07/12:46:55.953  INFO: listener.WebEventListener - after click on
+2023-04-07/12:46:55.964 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-04-07/12:46:56.718 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-04-07/12:47:01.880  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2023-04-07/12:47:01.922  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2023-04-07/12:47:02.020  INFO: listener.WebEventListener - after click on
+2023-04-07/12:47:02.021  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'New AVT ')]
+2023-04-07/12:47:07.196  INFO: listener.WebEventListener - After Switch to Window
+2023-04-07/12:47:22.221  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-07/12:47:22.274  INFO: listener.WebEventListener - after click on
+2023-04-07/12:47:32.331  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-07/12:47:32.388  INFO: listener.WebEventListener - after click on
+2023-04-07/12:47:32.393  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-07/12:47:32.430  INFO: listener.WebEventListener - after click on
+2023-04-07/12:47:32.435  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-07/12:47:32.467  INFO: listener.WebEventListener - after click on
+2023-04-07/12:47:32.473  INFO: listener.WebEventListener - beforeClickOn unknown locator]
+2023-04-07/12:47:32.509  INFO: listener.WebEventListener - after click on
+2023-04-07/12:47:37.560  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:47:37.649  INFO: listener.WebEventListener - Entered Value :Nasreen
+2023-04-07/12:47:42.704  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:47:42.784  INFO: listener.WebEventListener - Entered Value :Khan
+2023-04-07/12:47:43.055  INFO: listener.WebEventListener - Default Value :
+2023-04-07/12:47:43.141  INFO: listener.WebEventListener - Entered Value :test@test.com
+2023-04-07/12:47:48.146  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-07/12:48:28.351  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-07/12:48:38.456  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-07/12:49:02.712  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: div#app>div>div:nth-of-type(2)>div *:nth-child(1)
+2023-04-07/12:49:42.807  INFO: listener.WebEventListener - Before Finding element: By.xpath: //button[normalize-space()='Done']
+2023-04-07/12:49:42.892 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2023-04-07/12:49:45.998  WARN: handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:345)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:376)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:832)
